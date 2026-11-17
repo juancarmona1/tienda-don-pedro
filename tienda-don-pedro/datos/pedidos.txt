@@ -1,7 +1,0 @@
-Pedido: 1
-Cliente: Carlos Pérez
-Producto: Arroz 1kg
-Cantidad: 2
-Precio unitario: $4.800
-Total: $9.600
-Estado: Pendiente
