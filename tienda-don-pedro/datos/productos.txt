@@ -1,11 +1,7 @@
 PRODUCTOS - TIENDA DON PEDRO
 
-Leche 1L - $5.000
-<<<<<<< HEAD
+Leche 1L - $4.000
 Pan tajado - $7.000
-=======
-Pan tajado - $6.000
->>>>>>> pan-promocion
 Huevos x12 - $14.000
 Café 500g - $18.000
 Panela - $3.500
